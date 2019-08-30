@@ -11,6 +11,7 @@ This is a rhythm game made using unity. The game uses midi files to take in beat
 - Adobe PhotoShop CS5
 - FLStudio
 - Unity 2018
+- Visual Studio 2017
 
 
 # Library/Packages Used:
